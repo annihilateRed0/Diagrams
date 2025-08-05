@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0" version="28.0.7">
   <diagram name="Page-1" id="98NNi3en-TZQ4uQMV90l">
-    <mxGraphModel dx="1007" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="690" dy="253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
         <mxCell id="hgMQAKNkKGoYwcbPnEij-43" value="&lt;span data-huuid=&quot;11080961971377987387&quot;&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;β&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="hgMQAKNkKGoYwcbPnEij-1" vertex="1">
           <mxGeometry x="35" y="198.99999999999997" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hA9lWFGxY8dei8BSWIib-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.6547586750633085;endAngle=0.8944902826242304;" vertex="1" parent="hgMQAKNkKGoYwcbPnEij-1">
+        <mxCell id="hA9lWFGxY8dei8BSWIib-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.6547586750633085;endAngle=0.7419686955660539;" vertex="1" parent="hgMQAKNkKGoYwcbPnEij-1">
           <mxGeometry x="134" y="84.27" width="70" height="72" as="geometry" />
         </mxCell>
         <mxCell id="hA9lWFGxY8dei8BSWIib-5" value="&lt;span data-huuid=&quot;11080961971377987387&quot;&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;β&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#62A0EA);" vertex="1" parent="hgMQAKNkKGoYwcbPnEij-1">
