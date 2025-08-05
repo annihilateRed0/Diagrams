@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0" version="28.0.7">
   <diagram name="Page-1" id="98NNi3en-TZQ4uQMV90l">
-    <mxGraphModel dx="403" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1007" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,6 +120,15 @@
         </mxCell>
         <mxCell id="hA9lWFGxY8dei8BSWIib-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.6547586750633085;endAngle=0.8944902826242304;" vertex="1" parent="hgMQAKNkKGoYwcbPnEij-1">
           <mxGeometry x="134" y="84.27" width="70" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="hA9lWFGxY8dei8BSWIib-5" value="&lt;span data-huuid=&quot;11080961971377987387&quot;&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;β&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#62A0EA);" vertex="1" parent="hgMQAKNkKGoYwcbPnEij-1">
+          <mxGeometry x="128" y="114" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hA9lWFGxY8dei8BSWIib-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.4037267924846636;endAngle=0.5;aspect=fixed;" vertex="1" parent="hgMQAKNkKGoYwcbPnEij-1">
+          <mxGeometry x="77" y="5.64" width="66.73" height="66.73" as="geometry" />
+        </mxCell>
+        <mxCell id="hA9lWFGxY8dei8BSWIib-8" value="&lt;span data-huuid=&quot;11080961971377987387&quot;&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;β&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#62A0EA);" vertex="1" parent="hgMQAKNkKGoYwcbPnEij-1">
+          <mxGeometry x="100" y="42.370000000000005" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hgMQAKNkKGoYwcbPnEij-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.457;entryY=0.671;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" target="hgMQAKNkKGoYwcbPnEij-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
